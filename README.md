@@ -1,8 +1,7 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Ono Saburo" title="👋 Hi there! I'm Ono Saburo"/>
 
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
-
+I'm a web and mobile developer with 10 years of experience developing scalable, high-performance web and mobile applications. I have extensive experience across the entire development lifecycle, from architecture and API design to front-end, back-end, and mobile development. I'm passionate about writing clean code, leveraging modern frameworks, optimizing performance, and developing stable, user-centric solutions that are applicable to real-world production.
 </p>
 
 ## My favorite tools and technologies ⚙️
