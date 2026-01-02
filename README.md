@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Ono Saburo" title="👋 Hi there! I'm Ono Saburo"/>?
+<p>Hello! I am Ono Saburo</p>
 
 <p align="justify">
 I'm a web and mobile developer with 10 years of experience developing scalable, high-performance web and mobile applications. I have extensive experience across the entire development lifecycle, from architecture and API design to front-end, back-end, and mobile development. I'm passionate about writing clean code, leveraging modern frameworks, optimizing performance, and developing stable, user-centric solutions that are applicable to real-world production.
